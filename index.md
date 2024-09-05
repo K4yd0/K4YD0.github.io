@@ -1,4 +1,6 @@
-<p style="color:green;">I’m all about staying on the cutting edge of security research and sharing the latest vulnerabilities, bugs, and Black Hat discoveries. Follow my journey as I delve into the world of cybersecurity—whether it's uncovering critical CVEs or breaking down the latest findings from Black Hat. For real-time updates, check out my <a href="https://x.com/0x_threat_actor">Twitter feed</a>!</p>
+<p style="color:green;">I’m all about staying on the cutting edge of security research and sharing the latest vulnerabilities, bugs, and Black Hat discoveries. Follow my journey as I delve into the world of cybersecurity—whether it's uncovering critical CVEs or breaking down the latest findings from Black Hat. For real-time updates, check out my [![My Twitter](![Desktop Screenshot 2024 09 05 - 01 40 46 06](https://github.com/user-attachments/assets/998f6db2-9991-4e1c-9b11-49e203c02c1f)
+)](https://x.com/0x_threat_actor)
+
 
 
 
