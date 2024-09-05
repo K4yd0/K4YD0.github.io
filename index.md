@@ -1,5 +1,6 @@
 
-<p>I’m all about staying on the cutting edge of security research and sharing the latest vulnerabilities, bugs, and Black Hat discoveries. Follow my journey as I delve into the world of cybersecurity—whether it's uncovering critical CVEs or breaking down the latest findings from Black Hat. check out my                                                                                                                                                                                                                 
+<span style="color: green;">I’m all about staying on the cutting edge of security research and sharing the latest vulnerabilities, bugs, and Black Hat discoveries. Follow my journey as I delve into the world of cybersecurity—whether it's uncovering critical CVEs or breaking down the latest findings from Black Hat. Check out my
+                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                  
   <a href="https://x.com/0x_threat_actor"><img src="https://raw.githubusercontent.com/K4yd0/K4YD0.github.io/main/mays" alt="My Twitter Banner" /></a></p>
 
