@@ -1,1 +1,5 @@
+/* Hide the 'View my GitHub' button */
+.site-footer .github {
+  display: none;
+}
 
