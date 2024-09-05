@@ -1,6 +1,6 @@
 <p style="color:green;">I’m all about staying on the cutting edge of security research and sharing the latest vulnerabilities, bugs, and Black Hat discoveries. Follow my journey as I delve into the world of cybersecurity—whether it's uncovering critical CVEs or breaking down the latest findings from Black Hat. For real-time updates, check out my 
-                               
-  [![My Twitter Banner](Desktop Screenshot 2024.09.05 - 01.40.46.06.png)](https://x.com/0x_threat_actor)
+ 
+[![My Twitter Banner](https://github.com/K4yd0/K4YD0.github.io/blob/main/mays)](https://x.com/0x_threat_actor)
 
 
 
