@@ -1,3 +1,9 @@
+<p style="color:green;">I’m all about staying on the cutting edge of security research and sharing the latest vulnerabilities, bugs, and Black Hat discoveries. Follow my journey as I delve into the world of cybersecurity—whether it's uncovering critical CVEs or breaking down the latest findings from Black Hat. For real-time updates, check out my <a href="https://x.com/0x_threat_actor">Twitter feed</a>!</p>
+
+
+
+
+
 <ul>
 <li style="color: red;">Participated in numerous Capture the Flag (CTF) competitions, honing skills in various areas of cybersecurity including web security, cryptography, reverse engineering, and network security.</li>
 <li style="color: red;">Successfully identified and reported security vulnerabilities in various online platforms, earning recognition and monetary rewards through bug bounty programs.</li>
