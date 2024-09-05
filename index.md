@@ -9,7 +9,6 @@
 
 
 
-
 <ul>
 <li style="color: red;">Participated in numerous Capture the Flag (CTF) competitions, honing skills in various areas of cybersecurity including web security, cryptography, reverse engineering, and network security.</li>
 <li style="color: red;">Successfully identified and reported security vulnerabilities in various online platforms, earning recognition and monetary rewards through bug bounty programs.</li>
