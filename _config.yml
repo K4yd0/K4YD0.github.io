@@ -2,3 +2,8 @@ title: K4YD0
 description: It’s all about the recon
 show_downloads: false
 theme: jekyll-theme-hacker
+
+/* Hide the 'View my GitHub' button */
+.site-footer .github {
+  display: none;
+}
